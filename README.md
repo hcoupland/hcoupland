@@ -2,7 +2,9 @@
 
 I'm a Postdoctural Research based in the Health Data Science & AI (HEADSAI) group at the University of Copenhagen.
 
-🔭 I'm currently working on **deep learning and explainable AI approaches for life course analysis**
+- 🔭 I'm currently working on **deep learning and explainable AI approaches for life course analysis**
+- 🌱 I'm currently learning about using **large language models (LLMs)**
+- 👯 I’m looking to collaborate on projects seeking to assess the **impact of inequalities on health**
 
 <!--
 **hcoupland/hcoupland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
