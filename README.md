@@ -1,6 +1,8 @@
 ## ✨ Hello! ✨
 
-I'm a 
+I'm a Postdoctural Research based in the Health Data Science & AI (HEADSAI) group at the University of Copenhagen.
+
+🔭 I'm currently working on **deep learning and explainable AI approaches for life course analysis**
 
 <!--
 **hcoupland/hcoupland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Hi 👋, I'm Helen Coupland</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **DL and explainability for life course analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
